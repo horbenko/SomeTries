@@ -8,6 +8,3 @@ This is a test project that was created according to the tasks of the second sel
 This project does not require any installation. It is only a part of the sequence task flow. So it does not include any complex sections, guide for setting, guidelines and so on...
 
 <a href="https://binary-studio-academy.github.io/stage-2/"><img src="https://binary-studio-academy.github.io/stage-2/static/shrug-db14bf3f8d8fe483323643cc239a0e7a.gif" title="Funny man"/></a>
-
-Hmm... And need to add some things bellow according to the tasks steps
-🧙Hocus-pocus!
